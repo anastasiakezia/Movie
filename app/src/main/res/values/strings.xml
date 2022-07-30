@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChallengeChapter8</string>
+    <string name="title_activity_login_acitivity">LoginAcitivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
